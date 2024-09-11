@@ -42,7 +42,9 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     # POV across bed
-    "https://civitai.com/api/download/models/826679?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/826679?type=Model&format=SafeTensor&token=a4a8b0864a8ef76ba0272d2efcf2b962"
+    # Reverse upright straddle
+    "https://civitai.com/api/download/models/826437?type=Model&format=SafeTensor&token=a4a8b0864a8ef76ba0272d2efcf2b962"
     #"https://civitai.com/api/download/models/16576"
 )
 
