@@ -41,6 +41,8 @@ UNET_MODELS=(
 )
 
 LORA_MODELS=(
+    # POV across bed
+    "https://civitai.com/api/download/models/826679?type=Model&format=SafeTensor"
     #"https://civitai.com/api/download/models/16576"
 )
 
